@@ -12,6 +12,8 @@ import 'package:flutter_animations/utility/topvariable.dart';
 
 //https://www.google.com/search?q=animations+in+flutter&rlz=1C5CHFA_enPK918PK918&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiin82B2un9AhUHRqQEHd9WDdQQ_AUoAXoECAEQAw&biw=1440&bih=687&dpr=2#fpstate=ive&vld=cid:9d1e3d75,vid:62x72iRPZtc
 
+//https://api.flutter.dev/flutter/widgets/AnimatedAlign-class.html
+
 void main() {
   runApp(const MyApp());
 }
